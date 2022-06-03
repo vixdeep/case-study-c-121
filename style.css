@@ -1,0 +1,54 @@
+.copy_right_footer {
+    position: fixed;
+    color: #8a5d5d;
+    bottom: 0;
+    width: 100%;
+    background-color: #fae7d2;
+    line-height: 3;
+    text-align: center;
+      font-family: 'Special Elite', cursive;
+ 
+ }
+ ol h5
+{
+	background: rgb(224, 226, 180);
+    padding: 13px;
+    border-radius: 20px;
+}
+span
+{
+	color: rgb(255, 0, 0);
+	font-size: 16px;
+}	
+li img
+{
+	border-radius: 20px;
+}
+.bob
+{
+	background: #848a72;
+	padding: 30px;
+	border-radius: 20px;
+	margin-top: 50px;
+	box-shadow: 5px 5px 18px rgb(100, 92, 59);
+}
+b
+{
+	color: rgb(236, 26, 124);
+}
+
+.bob3
+{
+	text-align: center;
+	color: rgb(220, 224, 154);
+}
+.result
+{
+	box-shadow: 5px 5px 18px rgb(104, 184, 97);
+	letter-spacing: 2px;
+	background: #93dfdf;
+	border-radius: 20px;
+	margin-top:30px;
+	padding: 20px;
+	border:2px solid rgb(125, 108, 199)
+}
